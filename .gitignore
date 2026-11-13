@@ -1,0 +1,6 @@
+/build/
+/dist/
+/tools/windows-sdk/
+__pycache__/
+*.pyc
+*.log
